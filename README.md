@@ -11,7 +11,7 @@ Deep petrol-blue mosaic tiles, warm champagne motifs, and pale champagne interfa
 For **Omarchy 4 with Omarchy Shell**:
 
 ```sh
-omarchy theme install https://github.com/ejuro/omarchy-petrol-champagne-mosaic-theme
+omarchy theme install https://github.com/erikrjohansson/omarchy-petrol-champagne-mosaic-theme
 ```
 
 Use `omarchy theme bg next` to switch between the logo and wordmark wallpapers.
