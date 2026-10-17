@@ -4,8 +4,6 @@ Deep petrol-blue mosaic tiles, warm champagne motifs, and pale champagne interfa
 
 ![Petrol Champagne Mosaic — desktop preview with the wordmark wallpaper](preview.png)
 
-![Petrol Champagne Mosaic — desktop preview with the logo wallpaper](preview-logo.png)
-
 ## Install
 
 For **Omarchy 4 with Omarchy Shell**:
